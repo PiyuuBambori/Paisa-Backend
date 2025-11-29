@@ -5,3 +5,7 @@ python-dotenv
 google-generativeai
 pymongo
 gunicorn
+pandas
+scikit-learn
+numpy
+matplotlib
