@@ -312,7 +312,7 @@ import numpy as np
 import pickle
 
 # Load ML model
-with open("backend/m" \
+with open("m" \
 "odels/portfolio_model.pkl", "rb") as f:
     portfolio_model = pickle.load(f)
 
